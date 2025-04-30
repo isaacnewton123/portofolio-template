@@ -11,10 +11,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize Typed.js
     const typed = new Typed('.typed-text', {
         strings: [
-            '2D artwork',
+            'visual design',
             '3D modeling',
-            'Web development',
-            'Blockchain applications'
+            'web development',
+            'AI-assisted development',
+            'Linux server administration'
         ],
         typeSpeed: 80,
         backSpeed: 40,

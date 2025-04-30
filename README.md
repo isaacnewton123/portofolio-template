@@ -52,16 +52,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and creat
 
 Experience the live portfolio: [isaacnewton.site](https://isaacnewton.site)
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="assets/screenshot-home.png" alt="Home Section" width="400px" />
-  <img src="assets/screenshot-projects.png" alt="Projects Section" width="400px" />
-</div>
-
----
 
 ## 🛠️ Technologies Used
 
