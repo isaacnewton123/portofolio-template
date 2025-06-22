@@ -1768,3 +1768,7 @@ footer {
 .cv-nav-link:hover i {
     transform: translateY(-2px);
 } 
+
+.w-full {
+    width: 100%;
+}
